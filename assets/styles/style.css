@@ -50,8 +50,11 @@ nav a:hover{
   text-align:center;
   color:white;
 }
+nav ul{
+  padding-inline:4rem;
+  display:flex;
+}  
 nav li{
-  display:inline;
   list-style-type:none;
   margin-right:20px;
 }
